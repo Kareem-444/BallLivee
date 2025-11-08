@@ -26,7 +26,7 @@ const ProtectedLiveStream: React.FC = () => {
     <div className="relative w-full min-h-screen bg-black flex flex-col justify-center items-center p-2 sm:p-4">
       <div className="relative w-full max-w-6xl aspect-video rounded-2xl overflow-hidden shadow-2xl border border-gray-800">
         <iframe
-          src="https://br.yalla-shoot-llive.com/albaplayer/sports-c3/"
+          src="https://shoofkoora.live/albaplayer/kuwait-sports/?serv=0"
           title="Live Stream"
           className="absolute top-0 left-0 w-full h-full"
           allowFullScreen
